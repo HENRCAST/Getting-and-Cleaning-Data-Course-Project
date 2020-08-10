@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 This is the required projected for the Getting and Cleaning Data Course available at Coursera.
-It contain an RScript written for getting and cleaning (surprise!) data sets available at:
+It contains an RScript written for getting and cleaning (surprise!) data sets available at:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
