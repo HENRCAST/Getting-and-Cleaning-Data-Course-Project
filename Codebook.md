@@ -20,7 +20,7 @@ The first two columns contain identifiers for the measurements contained in the 
 ## Measurements
 
 The measurements included are simply designate the average some of the original variables (those kept after step 2 above) for each activity and each subject. 
-The measuremts come from:
+The measurements come from:
 
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
